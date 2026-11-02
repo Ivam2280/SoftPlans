@@ -112,18 +112,18 @@ The gallery below shows the real interface in desktop and mobile layouts, across
 
 ## Get started
 
-SoftPlans is a static web app: there is no package installation, build step, account, or backend to configure.
+SoftPlans is a static web app built with vanilla JavaScript modules. It has no project dependencies, build step, account, or backend to configure. You need Node.js and npm to run the local server below.
 
 1. Clone or download this repository.
-2. From the project directory, start a local HTTP server:
+2. From the project directory, start a local HTTP server with `npx`:
 
    ```bash
-   python3 -m http.server 8000
+   npx --yes serve . --listen 8000
    ```
 
 3. Open [http://localhost:8000](http://localhost:8000) in a modern browser.
 
-Serving the project over HTTP is recommended because the app uses JavaScript modules and browser storage.
+`npx` downloads the small `serve` utility if it is not already cached. Serving the project over HTTP is required because the app uses JavaScript modules and browser storage.
 
 ### Deploy to GitHub Pages
 
