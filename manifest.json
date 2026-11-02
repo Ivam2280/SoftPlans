@@ -1,0 +1,19 @@
+{
+  "name": "SoftPlans — список задач",
+  "short_name": "SoftPlans",
+  "description": "SoftPlans — спокойное место для ваших планов и задач.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8f7f5",
+  "theme_color": "#6e64c2",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
