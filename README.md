@@ -4,7 +4,9 @@
 
 SoftPlans is a lightweight task manager built with semantic HTML, modern CSS, and vanilla JavaScript modules. Organize tasks into color-coded groups, plan work by date and time, and keep task and group changes in sync between browser tabs on the same site.
 
-![SoftPlans desktop overview](./screenshots/desktop-overview.png)
+**Live Demo:** [https://ivam2280.github.io/SoftPlans/](https://ivam2280.github.io/SoftPlans/)
+
+<p align="center"><img src="./screenshots/desktop-overview.png" alt="SoftPlans desktop overview"></p>
 
 > **Ready to explore:** on a new browser profile, SoftPlans creates a realistic English-language demo workspace automatically. It includes 4 groups, 10 active tasks, and 3 completed tasks so the interface is populated from the first visit.
 
@@ -30,84 +32,84 @@ The gallery below shows the real interface in desktop and mobile layouts, across
 
 <details open>
 <summary><strong>All tasks — grouped overview</strong></summary>
-<p><img src="./screenshots/desktop-overview.png" alt="Desktop overview showing tasks in Product, Design, Personal, and Learning groups" width="100%"></p>
+<p align="center"><img src="./screenshots/desktop-overview.png" alt="Desktop overview showing tasks in Product, Design, Personal, and Learning groups" width="100%"></p>
 </details>
 
 <details>
 <summary><strong>Today — tasks due today</strong></summary>
-<p><img src="./screenshots/desktop-today.png" alt="Desktop Today filter with tasks grouped by time" width="100%"></p>
+<p align="center"><img src="./screenshots/desktop-today.png" alt="Desktop Today filter with tasks grouped by time" width="100%"></p>
 </details>
 
 <details>
 <summary><strong>Scheduled — overdue and upcoming work</strong></summary>
-<p><img src="./screenshots/desktop-scheduled.png" alt="Desktop Scheduled filter with overdue and date-based sections" width="100%"></p>
+<p align="center"><img src="./screenshots/desktop-scheduled.png" alt="Desktop Scheduled filter with overdue and date-based sections" width="100%"></p>
 </details>
 
 <details>
 <summary><strong>Important — flagged tasks</strong></summary>
-<p><img src="./screenshots/desktop-important.png" alt="Desktop Important filter showing flagged tasks by due date" width="100%"></p>
+<p align="center"><img src="./screenshots/desktop-important.png" alt="Desktop Important filter showing flagged tasks by due date" width="100%"></p>
 </details>
 
 <details>
 <summary><strong>Completed — completion history</strong></summary>
-<p><img src="./screenshots/desktop-completed.png" alt="Desktop Completed filter with tasks grouped by completion date" width="100%"></p>
+<p align="center"><img src="./screenshots/desktop-completed.png" alt="Desktop Completed filter with tasks grouped by completion date" width="100%"></p>
 </details>
 
 <details>
 <summary><strong>Design — a custom group</strong></summary>
-<p><img src="./screenshots/desktop-design-group.png" alt="Desktop view filtered to the Design group" width="100%"></p>
+<p align="center"><img src="./screenshots/desktop-design-group.png" alt="Desktop view filtered to the Design group" width="100%"></p>
 </details>
 
 <details>
 <summary><strong>Dark theme</strong></summary>
-<p><img src="./screenshots/desktop-dark.png" alt="SoftPlans desktop interface in dark theme" width="100%"></p>
+<p align="center"><img src="./screenshots/desktop-dark.png" alt="SoftPlans desktop interface in dark theme" width="100%"></p>
 </details>
 
 <details>
 <summary><strong>Edit a task</strong></summary>
-<p><img src="./screenshots/desktop-task-editor.png" alt="Task editor with name, date, time, and group controls" width="100%"></p>
+<p align="center"><img src="./screenshots/desktop-task-editor.png" alt="Task editor with name, date, time, and group controls" width="100%"></p>
 </details>
 
 <details>
 <summary><strong>Choose a date</strong></summary>
-<p><img src="./screenshots/desktop-date-picker.png" alt="Custom date picker with quick date presets and a monthly calendar" width="100%"></p>
+<p align="center"><img src="./screenshots/desktop-date-picker.png" alt="Custom date picker with quick date presets and a monthly calendar" width="100%"></p>
 </details>
 
 ### Mobile
 
 <details open>
 <summary><strong>All tasks — mobile overview</strong></summary>
-<p><img src="./screenshots/mobile-overview.png" alt="Mobile overview with the group carousel, task cards, floating add button, and bottom navigation" width="390"></p>
+<p align="center"><img src="./screenshots/mobile-overview.png" alt="Mobile overview with the group carousel, task cards, floating add button, and bottom navigation" width="390"></p>
 </details>
 
 <details>
 <summary><strong>Browse the group carousel</strong></summary>
-<p><img src="./screenshots/mobile-scrolled.png" alt="Mobile group carousel scrolled to show later groups" width="390"></p>
+<p align="center"><img src="./screenshots/mobile-scrolled.png" alt="Mobile group carousel scrolled to show later groups" width="390"></p>
 </details>
 
 <details>
 <summary><strong>Completed tasks on mobile</strong></summary>
-<p><img src="./screenshots/mobile-completed.png" alt="Mobile Completed view with completion dates and the clear-completed action" width="390"></p>
+<p align="center"><img src="./screenshots/mobile-completed.png" alt="Mobile Completed view with completion dates and the clear-completed action" width="390"></p>
 </details>
 
 <details>
 <summary><strong>Language and appearance settings</strong></summary>
-<p><img src="./screenshots/mobile-settings.png" alt="Mobile preferences popover with language and light or dark theme controls" width="390"></p>
+<p align="center"><img src="./screenshots/mobile-settings.png" alt="Mobile preferences popover with language and light or dark theme controls" width="390"></p>
 </details>
 
 <details>
 <summary><strong>Dark theme settings</strong></summary>
-<p><img src="./screenshots/mobile-dark-settings.png" alt="Mobile preferences popover in the dark theme" width="390"></p>
+<p align="center"><img src="./screenshots/mobile-dark-settings.png" alt="Mobile preferences popover in the dark theme" width="390"></p>
 </details>
 
 <details>
 <summary><strong>Add a task</strong></summary>
-<p><img src="./screenshots/mobile-task-composer.png" alt="Mobile task composer opened above the bottom navigation" width="390"></p>
+<p align="center"><img src="./screenshots/mobile-task-composer.png" alt="Mobile task composer opened above the bottom navigation" width="390"></p>
 </details>
 
 <details>
 <summary><strong>Schedule from a phone</strong></summary>
-<p><img src="./screenshots/mobile-date-picker.png" alt="Mobile date picker opened from the task composer" width="390"></p>
+<p align="center"><img src="./screenshots/mobile-date-picker.png" alt="Mobile date picker opened from the task composer" width="390"></p>
 </details>
 
 ## Get started
